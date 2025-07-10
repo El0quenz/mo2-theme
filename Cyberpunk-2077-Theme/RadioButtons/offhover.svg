@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="D:\Bethesda Game Modding\Mod Organizer 2\stylesheets\Paper\Dark\dots.png"
+   inkscape:export-xdpi="307.20001"
+   inkscape:export-ydpi="307.20001"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="offhover.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#505050"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.1897171"
+     inkscape:cx="151.89435"
+     inkscape:cy="58.469135"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer25"
+     showgrid="false"
+     units="px"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="4472"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:measure-start="18.8975,12.498"
+     inkscape:measure-end="20,12.498"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050">
+    <sodipodi:guide
+       position="10,10"
+       orientation="1,0"
+       id="guide4039"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="10,10"
+       orientation="0,1"
+       id="guide3935"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer25"
+     inkscape:label="Content">
+    <path
+       d="m 23.964998,0.11914062 c -13.174079,0 -23.85366988,10.67959138 -23.85366988,23.85367138 0,13.17408 10.67959088,23.85367 23.85366988,23.85367 13.174082,0 23.853672,-10.67959 23.853672,-23.85367 0,-13.17408 -10.67959,-23.85367138 -23.853672,-23.85367138 z m 0,4.33575758 c 9.880561,0 19.49877,9.6373538 19.49877,19.5179138 0,9.880559 -9.618209,19.518381 -19.49877,19.518379 -9.880558,0 -19.5473278,-9.63782 -19.5473278,-19.518379 0,-9.88056 9.6667698,-19.5179138 19.5473278,-19.5179138 z"
+       style="display:inline;opacity:1;fill:#f6d849;stroke-width:9.54151;stroke-dashoffset:1.9394;paint-order:markers stroke fill"
+       id="path3" />
+    <path
+       d="M 21.06192,8.2301191 V 32.356693 h 5.397287 l 0.374735,-3.744171 V 8.2301191 Z m 0.02168,14.6732149 1.317198,9.440689 H 21.07837 Z m -0.106197,11.796755 h 5.941781 V 40.3019 h -5.94178 z"
+       style="fill:#f6d849;stroke-width:0.288445;stroke-linejoin:bevel;stroke-miterlimit:1.9"
+       id="path4"
+       sodipodi:nodetypes="ccccccccccccccc" />
+  </g>
+</svg>
